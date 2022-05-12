@@ -18,7 +18,7 @@ Project made with java 18, spring boot, gradle, and docker.
 
 ## Development
 
-current port usage: 8082
+current port usage: 8090
 
 ### Usage
 
@@ -40,6 +40,12 @@ sudo chmod +x start.sh
 ```
 
 check start.sh file for more information with Docker file.
+
+### Check swagger
+
+```bash
+http://localhost:8090/swagger-ui.html
+```
 
 ## References
 
